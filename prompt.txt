@@ -1,0 +1,123 @@
+create a perosnal profolio website using tailwind css cdn 
+below are my profile detaild for the portfolio website
+- make it more represntative and profecional
+
+
+
+
+# profile details:
+####
+Samruddhi Investment
+
+My Name : Sandip Eknath Kothavade
+
+465 Families covered under Life Insurance
+120 Families covered under Mediclaim Policy
+908 Persons covered under Life Insurance
+264 Persons covered under Mediclaim & Accident Policy
+More than 67 Persons invested in Mutual Funds
+180 Investors in Postal Schemes like NSC, KVP, RD, FD’s
+
+
+
+motivation quats:
+Instead of saving what is left after spending,  
+spend what is left after saving.  
+
+The key to savings: Warren Buffet
+
+
+SECURE  
+FINANCIALLY  
+IN  
+UNEXPECTED EVENT  
+Accident
+
+
+Slogans / Taglines
+
+GET INSURED BE HAPPY…
+WE PROTECT YOUR LIFE & INVESTMENT
+
+#Services (LIC Policy Servicing at Your Doorstep)
+Policy Revival
+Policy Surrender
+Policy Loan
+Maturity Claim
+Death Claim
+Change in Address
+Change of Nomination
+Change in Premium Mode
+
+#Contact Information
+Samruddhi Investment
+Sandip Eknath Kothavade
+Samiksha Sandip Kothavade
+Insurance & Investment Advisor
+
+#Mobile Numbers:
+099209 26917
+08108 291673
+098335 26840
+
+📧 Emails:
+samruddhi.investments03@gmail.com
+manojkothavade@gmail.com
+
+
+
+Gallery Imgs:
+- img1.png
+- img2.png
+- img3.png
+- img4.png
+
+
+####
+
+
+
+
+# reference style index.html code
+''''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Olivia Wilson - Social Media Influencer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      background-color: #f8f4ef;
+      font-family: 'Arial', sans-serif;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+
+  <div class="max-w-4xl bg-[#f8f4ef] rounded-xl shadow-lg p-8 flex flex-col md:flex-row items-center space-y-8 md:space-y-0 md:space-x-10 border border-gray-200">
+    
+    <!-- Left: Text content -->
+    <div class="flex-1 text-center md:text-left">
+      <h1 class="text-4xl font-semibold text-[#4b3b2c] mb-4">
+        <span class="font-[cursive] text-5xl">Olivia Wilson</span>
+      </h1>
+      <p class="text-gray-700 mb-4">I'm a content creator and social media influencer since 6 years ago.</p>
+      <p class="text-gray-700 mb-4">With my 6 years experience on building communication on social media, I can help your business to grow.</p>
+      <p class="text-gray-700 mb-4">I can't wait to see what we can create together in the future.</p>
+      <a href="https://www.reallygreatsite.com" class="text-[#4b3b2c] font-semibold hover:underline">www.reallygreatsite.com</a>
+    </div>
+
+    <!-- Right: Image -->
+    <div class="relative">
+      <div class="w-72 h-80 bg-[#a78b73] absolute top-6 left-6 rounded-md -z-10"></div>
+      <img src="356eadfa-72a9-4fb5-a574-a77bf2487a3c.png" alt="Olivia Wilson" class="w-72 h-80 object-cover rounded-md shadow-md border border-gray-200" />
+    </div>
+
+  </div>
+
+</body>
+</html>
+
+''''
